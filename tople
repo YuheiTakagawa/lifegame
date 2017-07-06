@@ -1,0 +1,10 @@
+#!/bin/sh
+
+while :
+do
+	if [ -e /usr/vps/test01/out ]
+	then
+		sleep 0.25
+		tail -n 70 /usr/vps/test01/out
+	fi
+done
