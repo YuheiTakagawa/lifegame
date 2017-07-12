@@ -1,0 +1,4 @@
+# ignore binary files
+lifegame_*/lifegame_seq
+lifegame_*/client
+lifegame_*/server
