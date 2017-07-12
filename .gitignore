@@ -1,4 +1,4 @@
 # ignore binary files
-lifegame_seq
-client
-server
+lifegame_*/lifegame_seq
+lifegame_*/client
+lifegame_*/server
