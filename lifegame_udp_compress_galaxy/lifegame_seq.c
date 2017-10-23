@@ -63,9 +63,9 @@ void computeNextGen(const Grid * pCur, Grid * pNext)
 #include <pthread.h>
 #include <time.h>
 
-#define NLOOP	(10)
+#define NLOOP	(5000)
 #define N	(43)
-#define M	(49)
+#define M	(99)
 #define ALIVE	(1)
 #define DEAD	(0)
 
